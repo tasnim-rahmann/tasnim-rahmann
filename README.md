@@ -1,6 +1,6 @@
 
 # 💫 Hello I'm Tasnim Rahman.
-Learning! Exploring! Studying!
+Driven to Learn, Adapt, and Innovate
 
 
 ## 🌐 Socials:
