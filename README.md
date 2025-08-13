@@ -1,6 +1,6 @@
 
 # 💫 Hello I'm Tasnim Rahman.
-Driven to Learn, Adapt, and Innovate
+Full Stack Developer with a strong foundation in backend development and an endless curiosity for learning. I’m passionate about exploring new technologies, refining my skills, and building applications that are both high-performing and maintainable. For me, every project is an opportunity to learn, improve, and deliver solutions that make a real impact.
 
 
 ## 🌐 Socials:
