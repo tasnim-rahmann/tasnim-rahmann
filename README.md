@@ -1,6 +1,5 @@
 # 💫 Hello I'm Tasnim Rahman.
-
-
+A curious mind with a passion for technology, problem-solving, and continuous self-improvement
 
 <p align="left">
 <a href="https://linkedin.com/in/tasnim-rahman01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasnim-rahman01" height="30" width="40" /></a>&nbsp;&nbsp;
