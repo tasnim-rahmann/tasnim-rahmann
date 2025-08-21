@@ -1,2 +1,11 @@
 # 💫 Hello I'm Tasnim Rahman.
 A curious mind with a passion for technology, problem-solving, and continuous self-improvement
+
+
+<p align="left">
+<a href="https://linkedin.com/in/tasnim-rahman01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasnim-rahman01" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://fb.com/tasnimrahman01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tasnimrahman01" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.leetcode.com/tasnimm_rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tasnimm_rahman" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/tasnimm_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tasnimm_m" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/tasnim_rahman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tasnim_rahman" height="30" width="40" /></a>
+</p>
