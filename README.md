@@ -1,5 +1,5 @@
-# 💫 Hello I'm Tasnim Rahman.
-A curious mind with a passion for technology, problem-solving, and continuous self-improvement
+<h1 align="right">💫 Hello I'm Tasnim Rahman.</h1>
+<p align="right">A curious mind with a passion for technology, problem-solving, and continuous self-improvement</p>
 
 <p align="right">
 <a href="https://linkedin.com/in/tasnim-rahman01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasnim-rahman01" height="30" width="40" /></a>&nbsp;&nbsp;
@@ -9,4 +9,4 @@ A curious mind with a passion for technology, problem-solving, and continuous se
 <a href="https://fb.com/tasnimrahman01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tasnimrahman01" height="30" width="40" /></a>
 </p>
 
-<p align="right">📫How to reach me: tasnimrahman0101@gmail.com</p>
+<p align="right">📫 How to reach me: tasnimrahman0101@gmail.com</p>
