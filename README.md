@@ -38,7 +38,6 @@ A curious mind with a passion for technology, problem-solving, and continuous se
 ## 📊 GitHub Stats  
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasnim-rahmann&layout=compact&langs_count=6&theme=radical" height="160" alt="languages graph"/>
-  <img src="https://streak-stats.demolab.com?user=tasnim-rahmann&theme=radical&hide_border=false" height="160" alt="streak graph"/>
 </div>
 
 ---
