@@ -34,20 +34,8 @@ A curious mind with a passion for **technology, problem-solving, and continuous 
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tasnim-rahmann&show_icons=true&count_private=true&theme=radical" height="160" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=tasnim-rahmann&theme=radical&hide_border=false" height="160" alt="streak graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasnim-rahmann&layout=compact&langs_count=6&theme=radical" height="160" alt="languages graph"/>
+  <img src="https://streak-stats.demolab.com?user=tasnim-rahmann&theme=radical&hide_border=false" height="160" alt="streak graph"/>
 </div>
 
 ---
-
-## 🚀 About Me  
-- 🔭 Currently working on **Full-Stack Development & Problem Solving**  
----
-
----
-
-## ✍️ Random Dev Quote  
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
-</p>
