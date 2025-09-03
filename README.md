@@ -16,7 +16,7 @@ A curious mind with a passion for technology, problem-solving, and continuous se
 
 ---
 
-## 🛠️ Tech Stack I Work With  
+## 🛠️ Tech Stack
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
