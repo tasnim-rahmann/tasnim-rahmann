@@ -1,9 +1,11 @@
 # 💫 Hello, I'm Tasnim Rahman
-A curious mind with a passion for technology, problem-solving, and continuous self-improvement
+Hello, I'm Tasnim Rahman, a Full Stack Developer with a strong foundation in backend development and an insatiable curiosity for learning.
+I love exploring new technologies, refining my skills, and tackling challenges that help me grow. I'm also practicing competitive programming
+on Codeforces and CodeChef to enhance my problem-solving skills.
 
 ---
 
-## 🌐 Connect with me  
+## 🌐 Online Presence
 <p align="left">
 <a href="https://linkedin.com/in/tasnim-rahmann" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.leetcode.com/tasnimm_rahman" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode"/></a>
