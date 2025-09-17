@@ -14,7 +14,6 @@ on Codeforces and CodeChef to enhance my problem-solving skills.
 <a href="https://fb.com/tasnimrahman01" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
-📫 Reach me at: tasnimrahman0101@gmail.com
-🌐 : tasnimrahman.vercel.app
+🌐 : [tasnimrahman.vercel.app](https://tasnimrahman.vercel.app/)
 
 ---
