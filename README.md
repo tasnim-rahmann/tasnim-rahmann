@@ -22,4 +22,4 @@ I'm also practicing competitive programming on Codeforces and CodeChef to enhanc
 </a>
 </p>
 
-Reach me at: tasnimrahman0101@gmail.com
+**Email**: tasnimrahman0101@gmail.com
