@@ -12,7 +12,6 @@ programming on Codeforces and CodeChef to enhance my problem-solving skills.
 <a href="https://www.codechef.com/users/tasnim_rahman" target="_blank">
 <img src="https://img.shields.io/badge/CodeChef-FF6600?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/></a>
 </p>
-✉️: tasnimrahman0101@gmail.com
 
 ## 🛠️ Technologies I Worked With
 <p align="left">
@@ -37,3 +36,5 @@ programming on Codeforces and CodeChef to enhance my problem-solving skills.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
 </p>
+</br>
+✉️: tasnimrahman0101@gmail.com
