@@ -1,7 +1,7 @@
 # 💫 Hello, I'm Tasnim Rahman
-Hello, I'm Tasnim Rahman, a Full Stack Developer with a strong foundation in backend development.
-I love exploring new technologies, refining my skills. I'm also practicing competitive
-programming on Codeforces and CodeChef to enhance my problem-solving skills.
+Hello, I’m Tasnim Rahman - a Full-Stack Developer with a passion for backend engineering.
+I love exploring new technologies and refining my skills.
+I'm also practicing competitive programming on Codeforces and CodeChef to enhance my problem-solving skills.
 
 ## 🌐 Online Presence
 <p align="left">
