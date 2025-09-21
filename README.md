@@ -2,6 +2,8 @@
 Hello, I’m Tasnim Rahman - a Full-Stack Developer with a deep enthusiasm for backend development.
 I love exploring new technologies and refining my skills. I'm also practicing competitive
 programming on Codeforces and CodeChef to enhance my problem-solving skills.
+</br></br>
+✉️: tasnimrahman0101@gmail.com
 
 ## 🌐 Competitive Programming
 <p align="left">
@@ -36,5 +38,3 @@ programming on Codeforces and CodeChef to enhance my problem-solving skills.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
 </p>
-</br>
-✉️: tasnimrahman0101@gmail.com
