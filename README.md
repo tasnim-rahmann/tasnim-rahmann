@@ -7,12 +7,14 @@ programming on Codeforces and CodeChef to enhance my problem-solving skills.
 
 ## 🌐 Competitive Programming
 <p align="left">
-<a href="https://www.leetcode.com/tasnimm_rahman" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-F79F1F?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-<a href="https://codeforces.com/profile/tasnimm_m" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-<a href="https://www.codechef.com/users/tasnim_rahman" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-FF6600?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/tasnimrahman" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+  <a href="https://www.leetcode.com/tasnimm_rahman" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/tasnimm_m" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://www.codechef.com/users/tasnim_rahman" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-FF6600?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/></a>
 </p>
 
 ## 🛠️ Technologies I Worked With
